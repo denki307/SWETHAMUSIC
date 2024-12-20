@@ -262,7 +262,7 @@ async def start_comm(client, message: Message, _):
             )
 
 
-@app.on_message(filters.command(["start"]) & filters.group & ~BANNED_USERS)
+@app.on_message(filters.command(["sggtart"]) & filters.group & ~BANNED_USERS)
 @LanguageStart
 async def testbot(client, message: Message, _):
     photo_file = await app.download_media(message.chat.photo.big_file_id)
