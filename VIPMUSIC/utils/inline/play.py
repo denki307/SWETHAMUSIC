@@ -83,15 +83,15 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/ll_SARKAR_OWNER_ll"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/PROMOTION_UPDATE/6"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/TG_NAME_STYLE/4602"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/+dOU3Mczo0541MTRl"
             ),
         ],
     ]
@@ -152,15 +152,15 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/ll_SARKAR_OWNER_ll"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
             ),
             InlineKeyboardButton(
-                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/PROMOTION_UPDATE/6"
+                text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/TG_NAME_STYLE/4602"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/+dOU3Mczo0541MTRl"
             ),
         ],
     ]
