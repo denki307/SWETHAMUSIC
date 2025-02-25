@@ -39,17 +39,17 @@ def private_panel(_):
         [
              InlineKeyboardButton(
                 text="❍ 𝐎ᴡɴᴇʀ ❍",
-                url=f"https://t.me/ll_SARKAR_OWNER_ll",
+                url=f"https://t.me/OwnerofTheDenki",
             ),
             InlineKeyboardButton(
                 text="❍ 𝐀ʟʟ 𝐁ᴏᴛs ❍",
-                url=f"https://t.me/PROMOTION_UPDATE/6",
+                url=f"https://t.me/+TVt9peSQOQowODVl",
             )
         ],
         [
             InlineKeyboardButton(
                 text="❍ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ❍",
-                url=f"https://t.me/TG_NAME_STYLE/4602",
+                url=f"https://t.me/OwnerofTheDenki",
             ),
         ],
     ]
