@@ -57,7 +57,7 @@ async def ban_new(client, message):
             pass
 
 
-@app.on_message(filters.command(["sggggtart"]) & filters.private & ~BANNED_USERS)
+@app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)
 @LanguageStart
 async def start_comm(client, message: Message, _):
     chat_id = message.chat.id
