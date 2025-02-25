@@ -46,14 +46,14 @@ SPAM_THRESHOLD = 2
 @app.on_message(
     filters.command(
         [
-            "plggay",
-            "vplgggay",
-            "cplbvay",
-            "cvplvvvvay",
-            "playggforce",
-            "vplayfgvorce",
-            "cplayfggorce",
-            "cvplayggforce",
+            "play",
+            "vplay",
+            "cplvay",
+            "cvplay",
+            "playforce",
+            "vplayforce",
+            "cplayforce",
+            "cvplayforce",
         ],
         prefixes=["/", "!", "%", ",", "@", "#"],
     )
