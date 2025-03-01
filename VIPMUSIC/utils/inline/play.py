@@ -83,7 +83,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Murugan_008"
             ),
             InlineKeyboardButton(
                 text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
@@ -91,7 +91,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Murugan_008"
             ),
         ],
     ]
@@ -152,7 +152,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Murugan_008"
             ),
             InlineKeyboardButton(
                 text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
@@ -160,7 +160,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Murugan_008"
             ),
         ],
     ]
@@ -415,7 +415,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Murugan_008"
             ),
             InlineKeyboardButton(
                 text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
@@ -423,7 +423,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Murugan_008"
             ),
         ],
      ]
@@ -544,7 +544,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Murugan_008"
             ),
             InlineKeyboardButton(
                 text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
@@ -552,7 +552,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Murugan_008"
             ),
         ],
     ]
@@ -617,7 +617,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗢ᴡɴᴇʀ❱", url="https://t.me/Murugan_008"
             ),
             InlineKeyboardButton(
                 text="❰𝗔ʟʟ 𝗕ᴏᴛs❱", url="https://t.me/+TVt9peSQOQowODVl"
@@ -625,7 +625,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/OwnerofTheDenki"
+                text="❰𝗣ʀᴏᴍᴏᴛɪᴏɴ 𝗔ᴠᴀɪʟᴀʙʟᴇ❱", url="https://t.me/Murugan_008"
             ),
         ],
 ]
