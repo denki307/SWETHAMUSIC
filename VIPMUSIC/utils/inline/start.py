@@ -39,7 +39,7 @@ def private_panel(_):
         [
              InlineKeyboardButton(
                 text="❍ 𝐎ᴡɴᴇʀ ❍",
-                url=f"https://t.me/OwnerofTheDenki",
+                url=f"https://t.me/Murugan_008",
             ),
             InlineKeyboardButton(
                 text="❍ 𝐀ʟʟ 𝐁ᴏᴛs ❍",
@@ -49,7 +49,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text="❍ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ❍",
-                url=f"https://t.me/OwnerofTheDenki",
+                url=f"https://t.me/Murugan_008",
             ),
         ],
     ]
