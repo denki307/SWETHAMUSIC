@@ -52,7 +52,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/denki307/DENKIMUSIC",
+    "https://github.com/denki307/phycho",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -114,10 +114,10 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/+TVt9peSQOQowODVl"
+    "SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_WORLD"
 )  # Example:- https://t.me/ll_MOI_ll
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/+dOU3Mczo0541MTRl"
+    "SUPPORT_GROUP", "https://t.me/avalum_nanum_143"
 )  # Example:- https://t.me/ll_MOI_ll
 
 SUPPORT_CHAT = getenv(
@@ -144,7 +144,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/denki307/DENKIMUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/denki307/phycho")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -217,7 +217,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://graph.org/file/251bdfe93391f0abb45eb-59538c425bb5145abe.jpg",
+    "https://graph.org/file/a4b02372f35b1c7b21833-20a98a9824ee1b7751.jpg",
 )
 
 PING_IMG_URL = getenv(
